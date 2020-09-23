@@ -1,0 +1,24 @@
+{
+  "name": "@nickdyar/config__eslint-nickdyar",
+  "version": "1.0.0",
+  "description": "nick dyar's eslint config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdyar/config__eslint-nickdyar.git"
+  },
+  "keywords": [
+    "eslint",
+    "git",
+    "config"
+  ],
+  "author": "nick dyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdyar/config__eslint-nickdyar/issues"
+  },
+  "homepage": "https://github.com/nickdyar/config__eslint-nickdyar#readme"
+}
